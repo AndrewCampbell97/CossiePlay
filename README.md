@@ -1,2 +1,0 @@
-# CossiePlay
-CossiePlay Website
