@@ -1,4 +1,0 @@
-# CossiePlay
-CossiePlay Website
-
-Testing
