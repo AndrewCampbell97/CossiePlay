@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>CossiePlay</title>
-<link href="mainstyles_cossieplay.css" rel="stylesheet" type="text/css">
+<link href="what_is_cosplay_mainstyles.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -32,12 +32,15 @@
             <li>Wear your costume in to KFC on Stanton street and you can get a free drink with a 21-piece bucket. Tell them you’ve been to CossiePlay!</li>
             <br>
         </ul>
-        <div id="book_now"><a href="contact.html" class="myButton">BOOK NOW</a></div>
     </div>
-	<div id="image"><img src="Images/home_page_image.png" alt="" width="900" height="300"></div>
     <div id="body">
-        	<h2 id="h2_body">CossiePlay</h2>
-<p id="body_text">CossiePlay is a family-run business, operating in Hulkstown since 2012. We create outstanding custom-made costumes. Cosplayers can order any kind of costume - from simple Spiderman or elf costumes right up to costumes including advanced features like armour, animatronics, realistic weaponry and working force fields. Depending on the difficulty, costumes take between 1 and 50 weeks and cost between $10 and $10,000.</p>
+        	<h2 id="h2_body">What is Cosplay?</h2>
+<p id="body_text">Cosplay, a portmanteau of the words costume play, is a performance art in which participants called cosplayers wear costumes and fashion accessories to represent a specific character. Cosplayers often interact to create a subculture and a broader use of the term "cosplay" applies to any costumed role-playing in venues apart from the stage. Any entity that lends itself to dramatic interpretation may be taken up as a subject and it is not unusual to see genders switched. Favorite sources include manga and anime, comic books and cartoons, video games, and live-action films and television series.
+<br>
+<br>
+The rapid growth in the number of people cosplaying as a hobby since 1990 has made the phenomenon a significant aspect of popular culture in Japan and some other parts of Asia and in the Western world. Cosplay events are common features of fan conventions and there are also dedicated conventions and local and international competitions, as well as social networks, websites and other forms of media centered on cosplay activities.
+<img src="Images/we-re-rabbits-1439192-1279x850.jpg" width="751" height="487" alt="">
+</p>
     </div>
 	<div id="footer">Andrew Campbell - CossiePlay © Website 2016</div>
 </div>
