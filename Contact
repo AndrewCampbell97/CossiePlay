@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CossiePlay</title>
+<link href="contact_mainstyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="box1">
+  <div id="headerbox">
+        <div id="headerbox1"><img src="Images/logo_image.png" alt="index" width="100px" height="100px"></div>
+        <div id="headerbox2"><a href="index.html"><span class="link"><h1>Home</h1></span></a></div>
+        <div id="headerbox3"><a href="what_is_cosplay.html"><span class="link"><h1>What is Cosplay?</h1></span></a></div>
+        <div id="headerbox4"><a href="about_cosplay.html"><span class="link"><h1>About CossiePlay</h1></span></a></div>
+        <div id="headerbox5"><a href="contact.html"><span class="link"><h1>Contact</h1></span></a></div>
+        <div id="headerbox6"><a href="party_guidelines.html"><span class="link"><h1>Party Guidelines</h1></span></a></div>
+    </div>
+</div>
+<div id="container">
+	<div id="annoucements">
+    	<h2 id="H2_announcements">Annoucements</h2>
+        <p>We have some cool things happening that we want people to know about:</p>
+        <ul>
+        	<li>This month you can purchase 3 drinks for the price of 2 at the bar.</li>
+            <br>
+            <li>First-time party-goers get a 50% discount on entry</li>
+            <br>
+            <li>If you get a costume custom made, your next party entry is free if you wear that costume.</li>
+            <br>
+            <li>Wear your costume in to KFC on Stanton street and you can get a free drink with a 21-piece bucket. Tell them you’ve been to CossiePlay!</li>
+            <br>
+        </ul>
+    </div>
+    <div id="body">
+        	<h2 id="h2_body">About CossiePlay</h2>
+<p id="body_text">Phone: 07 4771 1234<br>
+Fax: 07-4771 1235<br>
+Address: 4 Stanton Avenue, Hulkstwon<br>
+Email: cossieplay@ gmail.com
+</p>
+
+<!--Booking-->
+<div id="Booking">
+First Name:
+<br>
+<br>
+Last Name:
+<br>
+<br>
+Email:
+<br>
+<br>
+Contact Number:
+<br>
+<br>
+Number of People Coming:
+</div>
+<div id="text_box">
+<input>
+<br>
+<br>
+<input>
+<br>
+<br>
+<input>
+<br>
+<br>
+<input>
+<br>
+<br>
+<select name="guests">
+	<option value="1">1-5</option>
+	<option value="2">6-10</option>
+	<option value="3">11-15</option>
+	<option value="4">16-20</option>
+	<option value="more">More</option>
+</select> 
+	<a href="index.html">
+	<button type="button" onclick="alert('Your Booking has been Successful, We hope you enjoy the party!')">
+	Submit
+	</button>
+    </a>
+</div>
+</div>
+	<div id="footer">Andrew Campbell - CossiePlay © Website 2016</div>
+</div>
+</body>
+</html>
